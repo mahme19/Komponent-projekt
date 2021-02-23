@@ -75,6 +75,11 @@
         </dependency>
         <dependency>
             <groupId>dk.sdu.mmmi.cbse</groupId>
+            <artifactId>enemy</artifactId>
+            <version>1.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>dk.sdu.mmmi.cbse</groupId>
             <artifactId>Asteroid</artifactId>
             <version>1.0.1-SNAPSHOT</version>
         </dependency>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="GeneralDictionary" />
+        <module name="DictionaryServiceProvider" />
+        <module name="ExtendedDictionary" />
+        <module name="DictionaryDemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DictionaryDemo" target="1.8" />
+      <module name="DictionaryServiceProvider" target="1.8" />
+      <module name="ExtendedDictionary" target="1.8" />
+      <module name="GeneralDictionary" target="1.8" />
+      <module name="ServiceLoaderExample" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

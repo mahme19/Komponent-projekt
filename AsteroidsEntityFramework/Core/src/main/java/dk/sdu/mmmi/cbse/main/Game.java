@@ -1,5 +1,7 @@
 package dk.sdu.mmmi.cbse.main;
 
+import asteroidsystem.AsteroidControlSystem;
+import asteroidsystem.AsteroidPlugin;
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.GL20;
@@ -13,6 +15,9 @@ import dk.sdu.mmmi.cbse.common.services.IGamePluginService;
 import dk.sdu.mmmi.cbse.managers.GameInputProcessor;
 import dk.sdu.mmmi.cbse.playersystem.PlayerControlSystem;
 import dk.sdu.mmmi.cbse.playersystem.PlayerPlugin;
+import enemysystem.EnemyControlSystem;
+import enemysystem.EnemyPlugin;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -44,10 +49,24 @@ public class Game
         );
 
         IGamePluginService playerPlugin = new PlayerPlugin();
+        IGamePluginService enemyPlugin = new EnemyPlugin();
+        IGamePluginService asteroidPlugin = new AsteroidPlugin();
 
         IEntityProcessingService playerProcess = new PlayerControlSystem();
+        IEntityProcessingService enemyProcess = new EnemyControlSystem();
+        IEntityProcessingService asteroidProcess = new AsteroidControlSystem();
+
+
         entityPlugins.add(playerPlugin);
         entityProcessors.add(playerProcess);
+
+        entityPlugins.add(enemyPlugin);
+        entityProcessors.add(enemyProcess);
+
+        entityProcessors.add(asteroidProcess);
+        entityPlugins.add(asteroidPlugin);
+
+
         // Lookup all Game Plugins using ServiceLoader
         for (IGamePluginService iGamePlugin : entityPlugins) {
             iGamePlugin.start(gameData, world);

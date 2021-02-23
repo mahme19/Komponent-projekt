@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DictionaryDemo/DictionaryDemo.iml" filepath="$PROJECT_DIR$/DictionaryDemo/DictionaryDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DictionaryServiceProvider/DictionaryServiceProvider.iml" filepath="$PROJECT_DIR$/DictionaryServiceProvider/DictionaryServiceProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExtendedDictionary/ExtendedDictionary.iml" filepath="$PROJECT_DIR$/ExtendedDictionary/ExtendedDictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeneralDictionary/GeneralDictionary.iml" filepath="$PROJECT_DIR$/GeneralDictionary/GeneralDictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceLoaderExample.iml" filepath="$PROJECT_DIR$/ServiceLoaderExample.iml" />
+    </modules>
+  </component>
+</project>
