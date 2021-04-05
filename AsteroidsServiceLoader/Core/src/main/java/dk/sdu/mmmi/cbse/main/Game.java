@@ -121,7 +121,7 @@ public class Game
         return SPILocator.locateAll(IEntityProcessingService.class);
     }
     
-       private Collection<? extends IPostEntityProcessingService> getPostEntityProcessingServices() {
+    private Collection<? extends IPostEntityProcessingService> getPostEntityProcessingServices() {
         return SPILocator.locateAll(IPostEntityProcessingService.class);
     }
 }

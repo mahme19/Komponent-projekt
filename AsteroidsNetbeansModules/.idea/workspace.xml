@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2222c366-11b5-4f5f-972c-4957508ec462" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_badlogicgames_gdx_gdx_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_badlogicgames_gdx_gdx_backend_lwjgl_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_badlogicgames_gdx_gdx_box2d_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_badlogicgames_gdx_gdx_box2d_platform_natives_desktop_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_badlogicgames_gdx_gdx_freetype_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_badlogicgames_gdx_gdx_freetype_platform_natives_desktop_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_badlogicgames_gdx_gdx_platform_natives_desktop_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_badlogicgames_jlayer_jlayer_1_0_1_gdx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_jinput_jinput_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_jinput_jinput_platform_natives_linux_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_jinput_jinput_platform_natives_osx_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_jinput_jinput_platform_natives_windows_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_jutils_jutils_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jcraft_jorbis_0_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lwjgl_lwjgl_lwjgl_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lwjgl_lwjgl_lwjgl_platform_natives_linux_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lwjgl_lwjgl_lwjgl_platform_natives_osx_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lwjgl_lwjgl_lwjgl_platform_natives_windows_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lwjgl_lwjgl_lwjgl_util_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_api_org_netbeans_api_annotations_common_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_api_org_netbeans_api_intent_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_api_org_netbeans_api_io_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_api_org_netbeans_api_progress_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_api_org_netbeans_api_progress_nb_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_api_org_netbeans_core_netigso_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_api_org_netbeans_libs_asm_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_api_org_netbeans_libs_junit4_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_api_org_netbeans_libs_osgi_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_api_org_netbeans_modules_autoupdate_services_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_api_org_netbeans_modules_nbjunit_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_api_org_netbeans_modules_netbinox_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_api_org_openide_awt_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_api_org_openide_filesystems_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_api_org_openide_io_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_api_org_openide_modules_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_api_org_openide_util_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_api_org_openide_util_lookup_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_api_org_openide_util_lookup_RELEASE82.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_api_org_openide_util_ui_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_external_org_eclipse_osgi_3_9_1_nb9_RELEASE90.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_external_updater_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_modules_org_netbeans_bootstrap_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_modules_org_netbeans_core_startup_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_modules_org_netbeans_core_startup_base_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_modules_org_netbeans_insane_RELEASE112.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_osgi_osgi_cmpn_7_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_osgi_osgi_core_7_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_all_5_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asteroid/Asteroid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AsteroidsNetbeansModules-parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bullet/Bullet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collision/Collision.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/Common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CommonAsteroids/CommonAsteroids.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CommonBullet/CommonBullet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CommonEnemy/CommonEnemy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Core.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enemy/Enemy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Player/Player.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SilentUpdate/SilentUpdate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/AsteroidsNetbeansModules-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/branding/AsteroidsNetbeansModules-branding.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Asteroid/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Asteroid/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Asteroid/src/main/java/dk/sdu/mmmi/cbse/asteroid/AsteroidPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Asteroid/src/main/java/dk/sdu/mmmi/cbse/asteroid/AsteroidPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Asteroid/src/main/java/dk/sdu/mmmi/cbse/asteroid/AsteroidSplitter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Asteroid/src/main/java/dk/sdu/mmmi/cbse/asteroid/AsteroidSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Asteroid/src/main/nbm/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/Asteroid/src/main/nbm/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Asteroid/src/main/resources/dk/sdu/mmmi/cbse/asteroid/Bundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Asteroid/src/main/resources/dk/sdu/mmmi/cbse/asteroid/Bundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bullet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bullet/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bullet/src/main/java/dk/sdu/mmmi/cbse/bulletsystem/Bullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bullet/src/main/java/dk/sdu/mmmi/cbse/bulletsystem/Bullet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bullet/src/main/java/dk/sdu/mmmi/cbse/bulletsystem/BulletControlSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bullet/src/main/java/dk/sdu/mmmi/cbse/bulletsystem/BulletControlSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bullet/src/main/java/dk/sdu/mmmi/cbse/bulletsystem/BulletPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bullet/src/main/java/dk/sdu/mmmi/cbse/bulletsystem/BulletPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bullet/src/main/nbm/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/Bullet/src/main/nbm/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bullet/src/main/resources/dk/sdu/mmmi/cbse/bulletsystem/Bundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Bullet/src/main/resources/dk/sdu/mmmi/cbse/bulletsystem/Bundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collision/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collision/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collision/src/main/java/dk/sdu/mmmi/cbse/collisionsystem/CollisionDetector.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collision/src/main/java/dk/sdu/mmmi/cbse/collisionsystem/CollisionDetector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collision/src/main/nbm/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/Collision/src/main/nbm/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collision/src/main/resources/dk/sdu/mmmi/cbse/collisionsystem/Bundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Collision/src/main/resources/dk/sdu/mmmi/cbse/collisionsystem/Bundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/GameData.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/GameData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/GameKeys.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/GameKeys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/World.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/entityparts/EntityPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/entityparts/EntityPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/entityparts/LifePart.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/entityparts/LifePart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/entityparts/MovingPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/entityparts/MovingPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/entityparts/PositionPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/entityparts/PositionPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/entityparts/ProjectilePart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/entityparts/ShootingPart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/entityparts/SplitterPart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/entityparts/TimerPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/entityparts/TimerPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/events/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/events/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/services/IEntityProcessingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/services/IEntityProcessingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/services/IGamePluginService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/services/IGamePluginService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/services/IPostEntityProcessingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/java/dk/sdu/mmmi/cbse/common/services/IPostEntityProcessingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/src/main/nbm/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/nbm/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommonAsteroids/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CommonAsteroids/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommonAsteroids/src/main/java/dk/sdu/mmmi/cbse/common/asteroids/Asteroid.java" beforeDir="false" afterPath="$PROJECT_DIR$/CommonAsteroids/src/main/java/dk/sdu/mmmi/cbse/common/asteroids/Asteroid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommonAsteroids/src/main/java/dk/sdu/mmmi/cbse/common/asteroids/AsteroidType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommonAsteroids/src/main/java/dk/sdu/mmmi/cbse/common/asteroids/IAsteroidSplitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/CommonAsteroids/src/main/java/dk/sdu/mmmi/cbse/common/asteroids/IAsteroidSplitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommonAsteroids/src/main/nbm/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/CommonAsteroids/src/main/nbm/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommonAsteroids/src/main/resources/dk/sdu/mmmi/cbse/common/asteroids/Bundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CommonAsteroids/src/main/resources/dk/sdu/mmmi/cbse/common/asteroids/Bundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommonEnemy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CommonEnemy/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommonEnemy/src/main/java/dk/sdu/mmmi/cbse/common/enemy/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/CommonEnemy/src/main/java/dk/sdu/mmmi/cbse/common/enemy/Enemy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommonEnemy/src/main/nbm/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/CommonEnemy/src/main/nbm/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommonEnemy/src/main/resources/dk/sdu/mmmi/cbse/common/enemy/Bundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CommonEnemy/src/main/resources/dk/sdu/mmmi/cbse/common/enemy/Bundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/src/main/java/dk/sdu/mmmi/cbse/core/main/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core/src/main/java/dk/sdu/mmmi/cbse/core/main/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/src/main/java/dk/sdu/mmmi/cbse/core/main/Installer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core/src/main/java/dk/sdu/mmmi/cbse/core/main/Installer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/src/main/java/dk/sdu/mmmi/cbse/core/managers/AssetsJarFileResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core/src/main/java/dk/sdu/mmmi/cbse/core/managers/AssetsJarFileResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/src/main/java/dk/sdu/mmmi/cbse/core/managers/GameInputProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core/src/main/java/dk/sdu/mmmi/cbse/core/managers/GameInputProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/src/main/java/dk/sdu/mmmi/cbse/core/managers/JarFileHandleStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core/src/main/java/dk/sdu/mmmi/cbse/core/managers/JarFileHandleStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/src/main/nbm/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/Core/src/main/nbm/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/src/test/java/dk/sdu/mmmi/cbse/core/managers/AssetsJarFileResolverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core/src/test/java/dk/sdu/mmmi/cbse/core/managers/AssetsJarFileResolverTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enemy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Enemy/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enemy/src/main/java/dk/sdu/mmmi/cbse/enemysystem/EnemyControlSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enemy/src/main/java/dk/sdu/mmmi/cbse/enemysystem/EnemyControlSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enemy/src/main/java/dk/sdu/mmmi/cbse/enemysystem/EnemyPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enemy/src/main/java/dk/sdu/mmmi/cbse/enemysystem/EnemyPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enemy/src/main/nbm/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/Enemy/src/main/nbm/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enemy/src/main/resources/dk/sdu/mmmi/cbse/enemysystem/Bundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Enemy/src/main/resources/dk/sdu/mmmi/cbse/enemysystem/Bundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Player/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player/src/main/java/dk/sdu/mmmi/cbse/playersystem/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/Player/src/main/java/dk/sdu/mmmi/cbse/playersystem/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player/src/main/java/dk/sdu/mmmi/cbse/playersystem/PlayerControlSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Player/src/main/java/dk/sdu/mmmi/cbse/playersystem/PlayerControlSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player/src/main/java/dk/sdu/mmmi/cbse/playersystem/PlayerPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Player/src/main/java/dk/sdu/mmmi/cbse/playersystem/PlayerPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player/src/main/nbm/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/Player/src/main/nbm/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player/src/main/resources/dk/sdu/mmmi/cbse/playersystem/Bundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Player/src/main/resources/dk/sdu/mmmi/cbse/playersystem/Bundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SilentUpdate/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SilentUpdate/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SilentUpdate/src/main/java/org/netbeans/modules/autoupdate/silentupdate/UpdateActivator.java" beforeDir="false" afterPath="$PROJECT_DIR$/SilentUpdate/src/main/java/org/netbeans/modules/autoupdate/silentupdate/UpdateActivator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SilentUpdate/src/main/java/org/netbeans/modules/autoupdate/silentupdate/UpdateHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/SilentUpdate/src/main/java/org/netbeans/modules/autoupdate/silentupdate/UpdateHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SilentUpdate/src/main/nbm/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/SilentUpdate/src/main/nbm/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SilentUpdate/src/main/resources/org/netbeans/modules/autoupdate/silentupdate/resources/Bundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SilentUpdate/src/main/resources/org/netbeans/modules/autoupdate/silentupdate/resources/Bundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SilentUpdate/src/main/resources/org/netbeans/modules/autoupdate/silentupdate/resources/layer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SilentUpdate/src/main/resources/org/netbeans/modules/autoupdate/silentupdate/resources/layer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/test/resources/enemy/updates.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/test/resources/enemy/updates.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/test/resources/remenemy/updates.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/test/resources/remenemy/updates.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/branding/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/branding/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/branding/src/main/nbm/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/branding/src/main/nbm/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/branding/src/main/resources/dk/sdu/mmmi/cbse/asteroidsnetbeansmodules/branding/Bundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/branding/src/main/resources/dk/sdu/mmmi/cbse/asteroidsnetbeansmodules/branding/Bundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AsteroidsServiceLoader/Core/src/main/java/dk/sdu/mmmi/cbse/main/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AsteroidsServiceLoader/Core/src/main/java/dk/sdu/mmmi/cbse/main/Game.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Core/src/main/nbm/manifest.mf" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1pLCMSqiTFc8o5vJY1h51XJIWmu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in AsteroidsNetbeansModules-app" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AsteroidsNetbeansModules-app" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in AsteroidsNetbeansModules-app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2222c366-11b5-4f5f-972c-4957508ec462" name="Default Changelist" comment="" />
+      <created>1614952938143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614952938143</updated>
+      <workItem from="1614952939738" duration="274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

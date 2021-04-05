@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.school.Enemy">
+    <module_version install_time="1615306727593" last="true" origin="installer" specification_version="1.0">
+        <file crc="715840901" name="config/Modules/dk-sdu-school-Enemy.xml"/>
+        <file crc="2521914619" name="modules/dk-sdu-school-Enemy.jar"/>
+        <file crc="4141096703" name="update_tracking/dk-sdu-school-Enemy.xml"/>
+    </module_version>
+</module>
